@@ -1,3 +1,12 @@
+NOTE
+====
+python ./ddlg/sign_pdf.py /path/to/pdf
+Ex:python ./ddlg/sign_pdf.py /c/test/pdf/toSign/del20190626.pdf
+
+
+
+ORIGNAL SOURCE
+==============
 .. image:: https://travis-ci.org/m32/endesive.svg?branch=master
    :alt: endesive build status on Travis CI
    :target: https://travis-ci.org/m32/endesive
